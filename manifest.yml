@@ -1,0 +1,10 @@
+---
+applications:
+  - name: banking-nest-travis-Wdiaz1
+    memory: 256MB
+    instances: 1
+    buildpacks:
+      - nodejs_buildpack
+    stack: cflinuxfs3
+    command: node main
+    timeout: 120
