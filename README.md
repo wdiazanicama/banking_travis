@@ -1,3 +1,3 @@
 # NodeJS - REST API with NestJS Framework
 
-Banking REST API with NestJS
+Banking REST API with NestJS v1
